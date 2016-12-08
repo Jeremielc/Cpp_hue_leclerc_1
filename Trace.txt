@@ -1,0 +1,67 @@
+########## Exercice 1 ##########
+Enter 10 integers :                Saisi des entiers pour remplissage du tableau
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Table content :                    Affichage du tableau
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+a = 1; b = 2                         Initialisation pour les fonctions d'échange
+Pointers :                           Fonction d'échange par pointeurs
+a = 2; b = 1                         L'echange a fonctionné
+Refererences :                       Fonction d'échange par référence
+a = 1; b = 2                         L'echange a fonctionné
+Values :                             Fonction d'échange par valeurs
+a = 1; b = 2                         L'echange n'a pas fonctionné
+Min : 0 Max : 9                      Recherche du minimum et du maximum
+Rand : 4                             Obtention d'un membre du tableau aléatoire
+Table content :                      Tableau mélangé
+0
+1
+2
+6
+4
+7
+3
+8
+5
+9
+
+########## Exercice 2 ##########
+Enter table size please ( <= 10):   Saisie de la taille du tableau
+5
+Enter 5 integers :                  Saisie des entiers du tableau
+0
+1
+2
+3
+4
+Refererences :                      Echange par références du min et du max
+Table content :                     Affichage du tableau
+4
+1
+2
+3
+0
+
+########## Exercice 4 ##########
+OK                                  Affectation de la valeur OK
+
+########## Exercice 5 ##########
+3.57604                             Ca fonctionne !
+3.57604
